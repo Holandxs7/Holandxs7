@@ -4,8 +4,12 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/grtprogramador?igshid=MzRIODBiNWFIZA==)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@grtprogramador?_t=8ev3ll1b5ss&_r=1)
 
-![Holandxs7 GitHub stats](https://github-readme-stats.vercel.app/api?username=Holandxs7&show_icons=true&theme=onedark)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ginaxim&layout=compact&langs_count=16&theme=dracula"/>
+<br>
+ <div>
+  ![Holandxs7 GitHub stats](https://github-readme-stats.vercel.app/api?username=Holandxs7&show_icons=true&theme=onedark)
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Holandxs7&layout=compact&langs_count=16&theme=onedark"/>
+</div>
+<br>
 
 ## Tecnologias que uso:
 
