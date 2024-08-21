@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Christian Holanda!✌🏽
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/holandxs7)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/grtprogramador?igshid=MzRIODBiNWFIZA==)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@grtprogramador?_t=8ev3ll1b5ss&_r=1)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/KawHolanda?igshid=MzRIODBiNWFIZA==)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@KawHolanda?_t=8ev3ll1b5ss&_r=1)
 
 
   ![Holandxs7 GitHub stats](https://github-readme-stats.vercel.app/api?username=Holandxs7&show_icons=true&theme=onedark)
