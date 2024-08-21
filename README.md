@@ -5,6 +5,7 @@
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@grtprogramador?_t=8ev3ll1b5ss&_r=1)
 
 ![Holandxs7 GitHub stats](https://github-readme-stats.vercel.app/api?username=Holandxs7&show_icons=true&theme=onedark)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ginaxim&layout=compact&langs_count=16&theme=dracula"/>
 
 ## Tecnologias que uso:
 
@@ -18,12 +19,6 @@
       <img align="center" alt="html5" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
        <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 </div><br/>
-<div>
-  <img align="center" alt="gina-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="gina-CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="Rafa-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="Rafa-Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
 
  Atualmente estudando Análise e Desenvolvimento de Sistemas, mas com um toque especial de excelência! Buscando constantemente aprimoramento, conquistei certificações valiosas na Microsoft e no meu curso superior, que adicionaram uma dimensão extra ao meu conhecimento. Agora, estou pronto para aplicar a teoria à prática, enfrentar desafios reais e criar soluções inovadoras.
 
